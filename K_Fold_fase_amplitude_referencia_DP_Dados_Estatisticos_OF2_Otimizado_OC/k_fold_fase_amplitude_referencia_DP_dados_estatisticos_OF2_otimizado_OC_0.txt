@@ -1,0 +1,8 @@
+janelamento,media_DP_erro,var_DP_erro,DP_DP_erro
+7,nan,nan,nan
+9,nan,nan,nan
+11,nan,nan,nan
+13,nan,nan,nan
+15,nan,nan,nan
+17,nan,nan,nan
+19,nan,nan,nan
